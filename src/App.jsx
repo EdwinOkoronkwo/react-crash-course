@@ -3,3 +3,7 @@ function App() {
 }
 
 export default App;
+
+/**
+ * Components are simply functions that return JSX code
+ */
